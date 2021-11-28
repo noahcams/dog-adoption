@@ -1,0 +1,14 @@
+html {
+  background: url(https://bhf-cdn.azureedge.net/bhf-blob-prod/0056621_yoop-slate-dog-wallpaper_600.jpeg);
+  /* color: white; */
+}
+
+.app {
+  text-align: center;
+}
+
+img {
+  width: 30vw;
+  margin: 1rem;
+  border-radius: 30px;
+}
